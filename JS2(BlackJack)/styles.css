@@ -1,0 +1,33 @@
+body
+{
+    background-image: url(bj.jpg);
+    height: 100%;
+    text-align: center;
+    margin-top: 120px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#head-el
+{
+    color: goldenrod;
+    font-size: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#button-el
+{
+    width: 192px;
+    height: 45px;
+    font-size: large;
+    color:#006400;
+    background-color: goldenrod;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border:none; 
+    border-radius: 4px;
+}

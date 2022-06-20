@@ -1,0 +1,53 @@
+body
+{
+    background-image: url(image1.webp);
+    text-align: center;
+}
+#a
+{
+    font-size:xx-large;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#b
+{
+    font-size: 100px;
+}
+#c
+{
+    font-size:20px;
+    font-weight: bold;
+}
+button
+{
+    border:none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    width: 150px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    
+}
+#increment-btn
+{
+    background-color:darkred;
+}
+#increment-btn:hover
+{
+    background-color: red;
+}
+#save-btn
+{
+    margin-top: 10px;
+    background-color: darkblue;
+}
+#save-btn:hover
+{
+    background-color: blue;
+}
+#a
+{
+    background-image: url();
+}
